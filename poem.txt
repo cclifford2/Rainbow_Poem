@@ -6,4 +6,5 @@ Red
 Green
 Yellow
 Grey
+Beige
 These are the colours of the rainbow.
